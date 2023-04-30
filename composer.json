@@ -24,7 +24,7 @@
 	"extra" : {
 		"laravel" : {
 			"providers" : [
-				"Laragrad\\SecretKeyAuth\\SecretKeyServiceProvider"
+				"Laragrad\\SecretKeyAuth\\SecretKeyAuthProvider"
 			]
 		}
 	},
